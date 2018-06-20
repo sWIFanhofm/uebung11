@@ -68,7 +68,7 @@ Es ist wichtig sich zu merken, über welches Objekt gesichert wird (`this` oder 
 
 ## Kellner und Koch
 
-Implementieren Sie einen `Koch` als `Runnable`, welcher einen Namen hat (`String`) sowie (nacheinander) eine vorgegebene Anzahl an [Speisen_DEAD_LINK](src/main/java/wif/prg2/Speise) erzeugt und in die `Durchreiche<Speise>` stellt.
+Implementieren Sie einen `Koch` als `Runnable`, welcher einen Namen hat (`String`) sowie (nacheinander) eine vorgegebene Anzahl an [Speisen_DEAD_LINK](src/main/java/Speise) erzeugt und in die `Durchreiche<Speise>` stellt.
 Implementieren Sie analog dazu eine `Bedienung`, die verständlicherweise nicht kocht, sondern eine gewisse maximale Zahl an Bedienvorgängen erledigt.
 
 **Hinweise:**
