@@ -89,7 +89,7 @@ Variieren sie die Anzahl der Köche, Kellner, sowie Speisen und die Kapazität d
 - Was wäre zu tun, um auch die Bestellvorgänge zu modellieren?
 
 > Hinweis: Starten Sie jeden Koch und jede Bedienung in einem separaten Thread. 
-> Das Programm wird terminieren, sobald jeder Koch und Bedienung zu ihrem jeweiligen Ende gekommen sind.
+> Das Programm wird terminieren, sobald alle Köche und Bedienungen zu ihrem jeweiligen Ende gekommen sind.
 
 
 Eine mögliche Ausgabe könnte so aussehen:
