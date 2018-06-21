@@ -1,4 +1,4 @@
-package ueb10;
+package ueb11;
 
 import java.util.LinkedList;
 import java.util.Queue;

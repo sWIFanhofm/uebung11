@@ -1,4 +1,4 @@
-package ueb10;
+package ueb11;
 
 public class Koch implements Runnable {
 	private final String name;

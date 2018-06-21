@@ -1,4 +1,4 @@
-package ueb10;
+package ueb11;
 
 public final class Speise {
 	private final String name;

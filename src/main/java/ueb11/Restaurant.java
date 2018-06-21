@@ -1,4 +1,4 @@
-package ueb10;
+package ueb11;
 
 public class Restaurant {
 	public static void main(String[] args) throws InterruptedException {
