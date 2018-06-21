@@ -1,4 +1,4 @@
-package ueb10;
+package ueb11;
 
 public interface Durchreiche<T> {
 	/**
